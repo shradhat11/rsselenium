@@ -10,6 +10,9 @@ import java.util.concurrent.TimeUnit;
 
 public class SignUp {
 
+    public void dummyTest(){
+        //dummy test
+    }
     
     @Test
     public void verifySignUp()
