@@ -23,6 +23,8 @@ public class SignUpPF {
         //driver.get("https://phptravels.com/demo/");
         //driver.manage().window().maximize();
         //driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        
+        //server commit
 
         LoginPagePF login1= new LoginPagePF(driver);
                 login1.clickOnSignUpButtonPF();
