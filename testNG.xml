@@ -3,6 +3,8 @@
     <test name = "Parallel Tests" parallel = "methods">
         <classes>
             <class name = "com.phptravels.testcases.ParallelTest"/>
+            <class name = "com.phptravels.testcases.SignUp"/>
+            <class name = "com.phptravels.testcases.SignUpPF"/>
         </classes>
     </test>
 </suite>
